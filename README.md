@@ -23,3 +23,8 @@ to group them together into applications. This is a convenient
 way to organize projects. By getting the the project source from
 VCS one can set up a new development environment with a single command.
 
+---
+
+These tools are provided as-is and without warranty or support. Users are free to use, fork and modify them, subject to the license agreement.
+
+webMethods® is a registered trademark of International Business Machines Corporation (“IBM”).
