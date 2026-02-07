@@ -10,7 +10,7 @@ have a look at the [product page](https://jahntech.com/jtwpm).
 
 JTWPM works on macOS, Linux, and Windows and is implemented as a Bash
 script. Bash comes out-of-the-box on Linux and macOS. On Windows
-development environments it is usually installed as part of Git
+development environments it is usually installed as part of [Git for Windows](https://git-scm.com/install/windows)
 (Git Bash).
 
 So in most cases no additional installation is needed.
