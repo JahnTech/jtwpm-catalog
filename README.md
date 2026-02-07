@@ -16,8 +16,8 @@ development environments it is usually installed as part of [Git for Windows](ht
 So in most cases no additional installation is needed.
 (Not having to install something like Node, Python, Ruby, etc. has
 been the primary reason to use Bash.)
-On Windows you can also Cygwin or MSYS2 to get a Bash shell.
-WSL does not work however, due to the way paths are translated
+On Windows you can also install [Cygwin](https://www.cygwin.com/) or [MSYS2](https://www.msys2.org/) to get a Bash shell.
+[WSL](https://learn.microsoft.com/en-us/windows/wsl/install) does not work however, due to the way paths are translated
 between environments.
 
 ## Functionality
